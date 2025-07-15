@@ -2,6 +2,10 @@
 
 一個使用 Vue.js 3 Composition API 開發的台北市 YouBike 即時資訊查詢應用程式。
 
+## 專案展示
+
+![專案示範](demo.png)
+
 ## 功能說明
 
 ### 1. 搜尋站點
@@ -38,5 +42,4 @@
 ## 開發筆記
 - 使用 Vue 3 Composition API 進行開發
 - 本地儲存使用 `localStorage` 保存收藏狀態
-- 使用 DaisyUI 
-
+- 使用 DaisyUI
